@@ -25,6 +25,7 @@ ALWAYS
       "russian" => "CP1251"
 	  "polish" => "CP1250"
       "spanish" => "CP1252"
+	  "schinese" => "CP936"
     END
     ACTION_DEFINE_ARRAY charsetsReloadArray BEGIN Setup END
     LAF ~HANDLE_CHARSETS~
@@ -67,7 +68,10 @@ LANGUAGE ~Russian (translated by Silent and Aldark of arcanecoast.ru)~
 LANGUAGE ~Polski (Aristo)~
 	~polish~
 	~Vault/Language/polish/setup.tra~
-
+LANGUAGE ~Simplified Chinese (Archenemy)~
+	~schinese~
+	~Vault/Language/schinese/setup.tra~
+	
 BEGIN @0 DESIGNATED 0
 REQUIRE_PREDICATE GAME_IS ~bgt bgee eet~ ~This mod is not compatible with your game~
 
