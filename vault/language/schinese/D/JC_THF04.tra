@@ -1,6 +1,6 @@
 // JC_THF04 Translation File
 
-@0   = ~等等！<CHARNAME>_？ <CHARNAME>_！~
+@0   = ~等等！<CHARNAME>？ <CHARNAME>！~
 @1   = ~是的，是我。请告诉我，你是谁？~
 @2   = ~冷静，是我。你要干什么？~
 @3   = ~对不起。我没时间。我必须赶快回到博德之门。~
